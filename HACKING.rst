@@ -20,7 +20,8 @@ Reporting an Issue
 Please include as much detail as you can. Let us know your host kernel
 version, e.g, :code:`uname -a`, host/guest distribution, e.g. :code:`cat /etc/os-release`,
 and the :code:`PRoot`/:code:`CARE` version number. If you get an error please include the full
-error and/or traceback.
+error and/or traceback. Issues are tracked on GitHub at <https://github.com/proot-me/proot/issues>,
+or can also be sent via  the `mailing list <mailto:proot_me@googlegroups.com>`_.
 
 Submitting Pull Requests
 ========================
