@@ -17,16 +17,18 @@ Contributions can be made in a number of ways, a few examples are:
 Reporting an Issue
 ==================
 
-Please include as much detail as you can. Let us know your platform and relevant
-version numbers for the project in question. If get an error please include the
-full error and traceback.
+Please include as much detail as you can. Let us know your host kernel
+version, e.g, `uname -a`, host/guest distribution, e.g. `cat /etc/os-release`,
+and the PRoot/CARE version number. If you get an error please include the full
+error and/or traceback.
 
 Submitting Pull Requests
 ========================
 
 Once you are happy with your changes or you are ready for some feedback, push
 it to your fork and send a pull request. For a change to be accepted it will
-most likely need to have tests and documentation if it is a new feature.
+most likely need to have updated tests and/or documentation. New features
+**require** additional tests in order to be included in a future release.
 
 Resources
 =========
@@ -34,3 +36,5 @@ Resources
 - `Contributing to Open Source Projects <http://www.contribution-guide.org>`_
 
 - `How To Ask Questions The Smart Way <http://www.catb.org/esr/faqs/smart-questions.html>`_
+
+- `Indentation Style - Wikipedia <https://en.wikipedia.org/wiki/Indentation_style#K&R_style>`_
