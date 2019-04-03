@@ -18,8 +18,8 @@ Reporting an Issue
 ==================
 
 Please include as much detail as you can. Let us know your host kernel
-version, e.g, `uname -a`, host/guest distribution, e.g. `cat /etc/os-release`,
-and the PRoot/CARE version number. If you get an error please include the full
+version, e.g, :bash:`uname -a`, host/guest distribution, e.g. :bash:`cat /etc/os-release`,
+and the :code:`PRoot`/:code:`CARE` version number. If you get an error please include the full
 error and/or traceback.
 
 Submitting Pull Requests
